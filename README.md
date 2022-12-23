@@ -15,7 +15,10 @@ Configure the plugin settings on the WooCommerce settings page
 ## Frequently Asked Questions
 How do I customize the CSS styling of the new product badge?
 
-- You can customize the CSS styling of the new product badge by going to the WooCommerce settings page and entering the desired CSS in the "CSS styling for the new product badge" field.
+- You can customize the CSS styling of the new product badge by going to the WooCommerce settings page and then click on products tab and scroll down to `New Product Badge Settings` section and entering the desired CSS in the "CSS styling for the new product badge" field.
+
+<img width="719" alt="Screen Shot 2022-12-23 at 7 10 18 PM" src="https://user-images.githubusercontent.com/4149030/209349383-1cbe3186-4b5d-4b1c-8359-5aafc146b447.png">
+
 
 
 ### Changelog
