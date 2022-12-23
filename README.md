@@ -1,4 +1,4 @@
-# New Product Badge
+# New Product Badge - Plugin by ChatGPT
 A WooCommerce plugin that allows you to display a "New" badge on products that are less than a specified number of days old.
 
 ## Description
